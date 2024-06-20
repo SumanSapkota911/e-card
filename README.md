@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My E-Card</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="ecard-container">
+        <img src="IMG_0855%20-.jpg" alt="Sumans Sapkota" class="IMG_0855%20-.jpg">
+        <h1>Suman Sapkota</h1>
+        <p>Welcome to my e-card.
+            "It's me Suman" 
+            ! Connect with me:</p>
+        <div class="social-links">
+            <a href="https://www.facebook.com/sumansapkota911?mibextid=ZbWKwL" target="_blank">Facebook</a>
+            <a href="https://www.instagram.com/suman_sapkota977?igsh=YXozMmcwcG0xdWx1" target="_blank">Instagram</a>
+            <a href="https://x.com/suman_528?t=CMnsDtufuxLniwyiJw6wKw&s=09" target="_blank">X.com</a>
+            <a href="https://www.snapchat.com/add/suman91111?share_id=fVqJrOTT86U&locale=en-US" target="_blank">Snapchat</a>
+            <a href="mailto:sumansapkota911@gmail.com">Email</a>
+        </div>
+    </div>
+</body>
+</html>
